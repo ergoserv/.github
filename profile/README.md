@@ -27,8 +27,10 @@ We are a team of dedicated software engineers, designers, and project managers p
 
 ## 🧰 Tech Stack
 
+_Our Tech Stack includes the following, but is not limited to:_
+
 **Languages**
-`Ruby` `JavaScript` `TypeScript` `HTML5` `CSS3`
+`Ruby` `JavaScript` `TypeScript` `HTML` `CSS` `Python`
 
 **Frameworks**
 `Ruby on Rails` `React` `Next.js` `NestJS` `Fastify` `Express` `Vue.js`
