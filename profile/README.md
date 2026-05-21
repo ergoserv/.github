@@ -40,7 +40,7 @@ We are a team of dedicated software engineers, designers, and project managers p
 `AWS` `Heroku` `DigitalOcean` `Hetzner` `Docker` `Ansible` `GitHub Actions` `GitLab CI` `Kamal`
 
 **Payments**
-`Stripe` `Braintree` `PayPal` `Authorize.net` `QuickBooks Pay` `Apple Pay` `Google Pay`
+`Stripe` `Braintree` `PayPal` `Authorize.net` `QuickBooks Payments` `Apple Pay` `Google Pay`
 
 **Integrations**
 `Twilio` `Cloudinary` `Sentry` `New Relic` `Mailchimp` `Google Analytics`
